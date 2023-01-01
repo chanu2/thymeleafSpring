@@ -1,5 +1,7 @@
 package hello.itemservice.domain.item;
 
+//ENTITY
+
 import jdk.jfr.Enabled;
 import lombok.Data;
 
